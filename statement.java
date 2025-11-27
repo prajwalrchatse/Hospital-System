@@ -83,6 +83,6 @@
 //---
 //
 //        ## Developer
-//        Krishna
+//        Prajwal
 //Integrated M.Tech Artificial Intelligence
 //VIT Bhopal University
